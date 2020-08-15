@@ -1,2 +1,2 @@
 # Resume
-My resume in both DOCX and PDF format
+My resume in both ODT and PDF format
